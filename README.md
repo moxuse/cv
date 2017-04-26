@@ -65,12 +65,12 @@ Jun. 2010 : [log / score – instrumentation of ice][13]@[MONKEY GALLERY Tokyo][
 [11]: http://akibatamabi21.com/
 [12]: http://www.3331.jp/
 [13]: http://ice.gzk.jp/ex/
-[14]: http://www.superplanning.co.jp/monkey/
+[14]: http://monkeycafe.jp
 [15]: http://gzk.jp/
 [16]: http://artm.town.tatsuno.nagano.jp
 [17]: http://www.ntticc.or.jp/Exhibition/2009/Openspace2009/index.html
 [18]: http://www.ntticc.or.jp/
-[19]: http://artbots.org/
+[19]: https://en.wikipedia.org/wiki/ArtBots
 [20]: http://www.sciencegallery.ie/
 [21]: http://www.yokohama-akarenga.jp/index.html
 [22]: http://www.ewha.ac.kr/
