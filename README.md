@@ -21,7 +21,7 @@ Koichiro MORI (b.1983) Being interested in the notions of “Inter-textuality”
 - [YouTube][7]
  
 
-### Edication
+### Education
 
 -  2009 Post-graduate program of [Information Design Dept. at Tama Art University][8]
 
