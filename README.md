@@ -33,7 +33,8 @@ Koichiro MORI (b.1983) Being interested in the notions of “Inter-textuality”
 - Feb. 2012 : mis-conversion@[akibatamabi21][11] in [3331 Arts Chiyoda Tokyo][12]
 
 - Sep. 2010 : Incheon Internationoal Digital Art Festival 2010@Tomorrow City Incheon
-Jun. 2010 : [log / score – instrumentation of ice][13]@[MONKEY GALLERY Tokyo][14] (as [gzk][15])
+
+- Jun. 2010 : [log / score – instrumentation of ice][13]@[MONKEY GALLERY Tokyo][14] (as [gzk][15])
 
 - Mar. 2010 : papuning Plug and Plays@[Tastuno Museum Nagano][16]
 
