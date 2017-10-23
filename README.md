@@ -59,7 +59,7 @@ Koichiro MORI (b.1983) Being interested in the notions of “Inter-textuality”
 [5]: https://soundcloud.com/moxus
 [6]: https://moxus.tumblr.com/
 [7]: https://youtube.com/profile?user=moxuse
-[8]: https://www.idd.tamabi.ac.jp
+[8]: http://www.idd.tamabi.ac.jp
 
 [9]: http://www.yebizo.com/
 [10]: http://www.syabi.com/
