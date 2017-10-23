@@ -6,7 +6,7 @@ Photo by Yasushi Fukuzawa
 Koichiro MORI (b.1983) Being interested in the notions of “Inter-textuality” and “Subjectivity”, he researches the structures visible in paintings and other visual media by perception and calculation through “Painter Emulator”, the original machine to generate abstract paintings automatically. Additionally to his solo activities, many collaborative projects with various artists.
 
 
-- web site: [http://moxus.org][1]
+- web site: [https://moxus.org][1]
 
 - [github][2]
 
@@ -52,14 +52,14 @@ Koichiro MORI (b.1983) Being interested in the notions of “Inter-textuality”
 
 - Mar. 2007 : [NO MAP][25]＠[BankArt 1929 Yokohama][26]
 
-[1]: http://moxus.org
-[2]: http://github.com/moxuse/
-[3]: http://twitter.com/moxus/
-[4]: http://vimeo.com/moxus/
+[1]: https://moxus.org
+[2]: https://github.com/moxuse/
+[3]: https://twitter.com/moxus/
+[4]: https://vimeo.com/moxus/
 [5]: https://soundcloud.com/moxus
-[6]: http://moxus.tumblr.com/
-[7]: http://youtube.com/profile?user=moxuse
-[8]: http://www.idd.tamabi.ac.jp
+[6]: https://moxus.tumblr.com/
+[7]: https://youtube.com/profile?user=moxuse
+[8]: https://www.idd.tamabi.ac.jp
 
 [9]: http://www.yebizo.com/
 [10]: http://www.syabi.com/
