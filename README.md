@@ -1,4 +1,4 @@
-![portrait](./images/portrait_1.jpg)
+![portrait](./images/portrait_2.jpg)
 Photo by Yasushi Fukuzawa
 
 ### Koichiro Mori
