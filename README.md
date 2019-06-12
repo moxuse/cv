@@ -79,3 +79,7 @@ Koichiro MORI (b.1983) Being interested in the notions of “Inter-textuality”
 [24]: http://tamabi.ac.jp/
 [25]: http://www.idd.tamabi.ac.jp/art/exhibit/gw06/
 [26]: http://www.bankart1929.com
+
+#### contect
+
+Mail : info@moxus.org
