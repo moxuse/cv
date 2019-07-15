@@ -28,6 +28,8 @@ Koichiro MORI (b.1983) Being interested in the notions of “Inter-textuality”
 
 ### Exhibitions
 
+- Dec. 2018 : [enum Koichiro Mori Private Exhibition][27]@[MIDORI.so Aobadai Meguro Tokyo][28]
+
 - Feb. 2013 : [Yebisu International Festival for Art & Alternative Visions][9]@[Tokyo Metropolitan Museum of Photography][10] (as [gzk][15])
 
 - Feb. 2012 : mis-conversion@[akibatamabi21][11] in [3331 Arts Chiyoda Tokyo][12]
@@ -79,6 +81,8 @@ Koichiro MORI (b.1983) Being interested in the notions of “Inter-textuality”
 [24]: http://tamabi.ac.jp/
 [25]: http://www.idd.tamabi.ac.jp/art/exhibit/gw06/
 [26]: http://www.bankart1929.com
+[27]: https://enum.moxus.org
+[28]: http://midori.so
 
 #### Contact
 
